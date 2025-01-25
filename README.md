@@ -46,7 +46,7 @@ The Personal Health Management Website is an application that helps people track
 ### **Frontend Setup**
 1. **Navigate to the frontend directory**:
 2. **Install dependencies**:
-   `npm i``bash
+   ```bash npm i
 
 3. **Run the frontend application**:
    ```bash
