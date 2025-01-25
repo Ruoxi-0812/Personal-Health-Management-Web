@@ -1,0 +1,218 @@
+
+.dialog-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.el-table .cell-name {
+  display: -webkit-box;
+  -webkit-line-clamp: 2; 
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.el-slider__bar {
+  height: 16px;
+  background-color: #c1cc57;
+}
+
+.el-slider__button-wrapper {
+  height: 66px;
+  width: 66px;
+  top: -25px;
+}
+
+
+.el-switch.is-checked .el-switch__core {
+  border-color: rgb(43, 121, 203) !important;
+  background-color: rgb(43, 121, 203) !important;
+}
+
+.avatar-uploader .el-upload {
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.el-tabs__active-bar {
+  height: 2px !important;
+  border-radius: 3px;
+}
+
+.el-tabs__item {
+  height: 50px !important;
+  line-height: 50px !important;
+  user-select: none;
+}
+
+.avatar-uploader .el-upload:hover {
+  border-color: #409EFF;
+}
+
+.avatar-uploader-icon {
+  font-size: 28px;
+  color: #8c939d;
+  width: 88px;
+  height: 88px !important;
+  line-height: 88px !important;
+  text-align: center;
+}
+
+.el-badge__content.is-fixed {
+  transform: translateY(1%) translateX(100%);
+}
+
+.el-timeline {
+  padding: 10px;
+}
+
+.el-timeline-item__tail {
+  border-left: 2px solid #155599 !important;
+}
+
+.el-timeline-item__node {
+  background-color: #155599 !important;
+}
+
+.el-table thead tr th {
+  color: rgb(162, 147, 147) !important;
+  font-weight: 400;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: rgb(255,255,255) !important;
+  text-align: left !important;
+}
+
+.el-table td.el-table__cell, .el-table th.el-table__cell.is-leaf {
+  border-bottom: 1px solid #f2f4f7 !important;
+}
+
+.el-table__row .cell {
+  font-size: 14px !important;
+  color: #545354 !important;
+}
+
+.el-dialog__body {
+  padding: 0 !important;
+}
+
+.el-badge__content.is-fixed {
+  top: 14px !important;
+  right: 6px !important;
+}
+
+.el-dialog__header {
+  padding: 0 !important;
+}
+
+.el-table th>.cell {
+  padding-left: 15px !important;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.el-table__row .cell {
+  font-size: 14px !important;
+  color: #1c1c1c;
+  padding-left: 15px !important;
+}
+
+.el-range-editor--small .el-range-input {
+  background-color: rgb(246, 246, 246);
+}
+
+.el-checkbox__input.is-checked .el-checkbox__inner,
+.el-checkbox__input.is-indeterminate .el-checkbox__inner {
+  background-color: #a7535a !important;
+  border-color: #a7535a !important;
+}
+
+.el-slider__bar {
+  height: 4px;
+  background-color: rgb(51,51,51);
+}
+
+.el-input__inner {
+  background-color: rgb(246, 246, 246);
+  border: none;
+  color: rgb(51,51,51);
+}
+
+.el-input-group__append, .el-input-group__prepend {
+  background-color: #0088d2;
+  color: rgb(246, 246, 246);
+  /* border: 1px solid #DCDFE6; */
+  border: none;
+}
+
+.el-pager li.active {
+  color: rgb(51,51,51) !important;
+  cursor: default;
+  border-radius: 3px;
+  border: 1px solid rgb(246, 246, 246);
+  background-color: rgb(246, 246, 246);
+}
+
+.el-radio-button__orig-radio:checked+.el-radio-button__inner {
+  color: #ffffff !important;
+  background-color: #64d134 !important;
+  border-color: #64d134 !important;
+  box-shadow: -1px 0 0 0 #64d134 !important;
+}
+
+.el-menu {
+  border-right: none !important;
+}
+
+.w-e-text-container [data-slate-editor] pre>code {
+  text-shadow: none !important;
+  background-color: #2d2d2d !important;
+  color: aliceblue !important;
+  padding: 0 10px !important;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+  background: none !important;
+}
+
+#w-e-text-12 span {
+  background-color: #268611 !important;
+}
+
+.el-popconfirm__main {
+  padding-bottom: 21px !important;
+}
+
+
+.el-tag+.el-tag {
+  margin-left: 10px !important;
+}
+
+.el-dropdown-menu {
+  padding: 20px !important;
+  user-select: none !important;
+  color: #1c1c1c;
+
+  .el-dropdown-item:hover {
+    background-color: #ffffff !important;
+  }
+}
+
+.el-radio{
+  margin-top: 10px;
+}
+
+.point {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  margin: 0 6px;
+  background-color: rgb(206, 204, 204);
+}
