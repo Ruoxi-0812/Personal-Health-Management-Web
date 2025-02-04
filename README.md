@@ -5,7 +5,7 @@ The Personal Health Management Website is an application that helps people track
 
 ### **Backend**
 - Spring Boot
-- Spring MVC
+- Spring MV
 - MyBatis
 
 ### **Frontend**
