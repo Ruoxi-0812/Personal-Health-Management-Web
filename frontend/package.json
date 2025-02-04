@@ -2,12 +2,13 @@
   "name": "prosonal-health-web",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
-    "dev": "vue-cli-service serve",
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
-  },
+ "scripts": {
+  "dev": "vue-cli-service serve",
+  "serve": "vue-cli-service serve",
+  "build": "vue-cli-service build",
+  "start": "vue-cli-service serve",
+  "lint": "vue-cli-service lint"
+},
   "dependencies": {
     "@wangeditor/editor": "^5.1.23",
     "@wangeditor/editor-for-vue": "^1.0.2",
@@ -56,6 +57,9 @@
       "parser": "babel-eslint"
     },
     "rules": {}
+  },
+  "engines": {
+    "node": "14.x"
   },
   "browserslist": [
     "> 1%",
