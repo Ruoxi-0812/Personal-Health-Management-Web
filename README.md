@@ -9,7 +9,7 @@ The Personal Health Management Website is an application that helps people track
 - MyBatis
 
 ### **Frontend**
-
+- Vue.js
 - Axios
 - Router
 
