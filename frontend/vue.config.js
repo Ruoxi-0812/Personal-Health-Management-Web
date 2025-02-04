@@ -1,4 +1,7 @@
 module.exports = {
+    publicPath: "./",
+    outputDir: "dist", // Ensure build output goes to dist/
+
     lintOnSave: false,
     devServer: {
         host: "localhost",
@@ -9,5 +12,6 @@ module.exports = {
             warning: false,
             errors: false
         },
+        
     }
 }
