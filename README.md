@@ -3,6 +3,10 @@
 ## **Overview**
 The Personal Health Management Website is an application that helps people track, manage, and visualize their health data. The system allows users to record various health indicators, access health-related news, receive notifications, and interact with other users through comments and discussions.
 
+---
+
+## **Technology Stack**
+
 ### **Backend**
 - Spring Boot
 - Spring MVC
@@ -16,10 +20,13 @@ The Personal Health Management Website is an application that helps people track
 ### **Database**
 - MySQL
 
+---
+
 ## **Features**
+
 ### **User Management**
 - User registration & login
-- Role-based access control (user/admin)
+- Role-based access control (User/Admin)
 - Profile updates & password changes
 
 ### **Health Tracking**
@@ -35,7 +42,10 @@ The Personal Health Management Website is an application that helps people track
 - System notifications for health updates and user interactions
 - Interactive message notifications
 
+---
+
 ## **Setup Instructions**
+
 ### **Backend Setup**
 1. **Configure Maven** and install dependencies.
 2. **Set up MySQL database** and update connection in `resources/application.yml`.
