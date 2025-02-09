@@ -73,39 +73,39 @@ Below are screenshots of the Personal Health Management Website, highlighting ke
 <img src="images/user-login.png" width="40%">
 
 ### **Health News List**
-<img src="images/Health-News-List.png" width="70%">
+<img src="images/Health-News-List.png" width="80%">
 
 ### **News Details**
-<img src="images/News-Details.png" width="70%">
+<img src="images/News-Details.png" width="80%">
 
 ### **News Favorites**
-<img src="images/News-Favorites.png" width="70%">
+<img src="images/News-Favorites.png" width="80%">
 
 ### **Model Management and Indicator Documentation**
-<img src="images/Model-Management-Indicator-Documentation.png" width="70%">
+<img src="images/Model-Management-Indicator-Documentation.png" width="80%">
 
 ### **Message Notifications**
-<img src="images/Message-notifications.png" width="70%">
+<img src="images/Message-notifications.png" width="80%">
 
 ### **Health Indicator Visualization**
-<img src="images/Health-Indicator-Visualization.png" width="70%">
+<img src="images/Health-Indicator-Visualization.png" width="80%">
 
 ## **Admin Panel**
 
 ### **Home Page Visualization**
-<img src="images/Home-Page-Visualization.png" width="70%">
+<img src="images/Home-Page-Visualization.png" width="80%">
 
 ### **User Management**
-<img src="images/User-Management.png" width="70%">
+<img src="images/User-Management.png" width="80%">
 
 ### **News Classification**
-<img src="images/News-Classification.png" width="70%">
+<img src="images/News-Classification.png" width="80%">
 
 ### **News Management**
-<img src="images/News-Management.png" width="70%">
+<img src="images/News-Management.png" width="80%">
 
 ### **Health Model Management**
-<img src="images/Health-Model-Management.png" width="70%">
+<img src="images/Health-Model-Management.png" width="80%">
 
 
 
