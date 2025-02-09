@@ -54,9 +54,9 @@ The Personal Health Management Website is an application that helps people track
 2. **Install dependencies**:
    - `npm i`
 
-```sh
+```
 npm test
-
+```
 
 3. **Run the frontend application**:
    - `npm run dev`
