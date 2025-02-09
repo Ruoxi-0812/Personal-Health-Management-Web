@@ -1,8 +1,7 @@
 # **Personal Health Management Website**
 
 ## **Overview**
-The Personal Health Management Website is an application that helps people track, manage, and visualize their health data. The system allows users to record various health indicators, access health-related news, receive notifications, and interact with other users through comments and discussions.
-
+The Personal Health Management Website is an application that helps people track, manage, and visualize their health data. The system allows users to record various health indicators, access health-related news, receive notifications, and interact with other users through discussions and comments.
 
 ## **Technology Stack**
 
