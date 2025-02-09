@@ -70,42 +70,43 @@ npm run dev
 ## **📸 Project Showcase**
 
 ### **User Login**
-![User Login](images/user-login.png)
+<img src="images/user-login.png" width="50%">
 
 ### **Health News List**
-![Health News List](images/Health-News-List.png)
+<img src="images/Health-News-List.png" width="50%">
 
 ### **News Details**
-![News Details](images/News-Details.png)
+<img src="images/News-Details.png" width="50%">
 
 ### **News Favorites**
-![News Favorites](images/News-Favorites.png)
+<img src="images/News-Favorites.png" width="50%">
 
 ### **Model Management and Indicator Documentation**
-![Model Management](images/Model-Management-Indicator-Documentation.png)
+<img src="images/Model-Management-Indicator-Documentation.png" width="50%">
 
 ### **Message Notifications**
-![Message Notifications](images/Message-notifications.png)
+<img src="images/Message-notifications.png" width="50%">
 
 ### **Health Indicator Visualization**
-![Health Indicator Visualization](images/Health-Indicator-Visualization.png)
+<img src="images/Health-Indicator-Visualization.png" width="50%">
 
 ## **Admin Panel**
 
 ### **Home Page Visualization**
-![Home Page Visualization](images/Home-Page-Visualization.png)
+<img src="images/Home-Page-Visualization.png" width="50%">
 
 ### **User Management**
-![User Management](images/User-Management.png)
+<img src="images/User-Management.png" width="50%">
 
 ### **News Classification**
-![News Classification](images/News-Classification.png)
+<img src="images/News-Classification.png" width="50%">
 
 ### **News Management**
-![News Management](images/News-Management.png)
+<img src="images/News-Management.png" width="50%">
 
 ### **Health Model Management**
-![Health Model Management](images/Health-Model-Management.png)
+<img src="images/Health-Model-Management.png" width="50%">
+
 
 
 ## 🚀 Start tracking your health today with the Personal Health Management Website!
