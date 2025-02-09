@@ -3,7 +3,6 @@
 ## **Overview**
 The Personal Health Management Website is an application that helps people track, manage, and visualize their health data. The system allows users to record various health indicators, access health-related news, receive notifications, and interact with other users through comments and discussions.
 
----
 
 ## **Technology Stack**
 
@@ -19,8 +18,6 @@ The Personal Health Management Website is an application that helps people track
 
 ### **Database**
 - MySQL
-
----
 
 ## **Features**
 
@@ -42,7 +39,6 @@ The Personal Health Management Website is an application that helps people track
 - System notifications for health updates and user interactions
 - Interactive message notifications
 
----
 
 ## **Setup Instructions**
 
@@ -57,6 +53,10 @@ The Personal Health Management Website is an application that helps people track
 1. **Navigate to the frontend directory**: src
 2. **Install dependencies**:
    - `npm i`
+
+```sh
+npm test
+
 3. **Run the frontend application**:
    - `npm run dev`
 
