@@ -68,44 +68,45 @@ npm run dev
 
 
 ## **📸 Project Showcase**
+Here are some screenshots showcasing this Website. These images demonstrate some functionalities, including user login, health tracking, news management, and admin panel controls.
 
 ### **User Login**
-<img src="images/user-login.png" width="50%">
+<img src="images/user-login.png" width="40%">
 
 ### **Health News List**
-<img src="images/Health-News-List.png" width="50%">
+<img src="images/Health-News-List.png" width="60%">
 
 ### **News Details**
-<img src="images/News-Details.png" width="50%">
+<img src="images/News-Details.png" width="60%">
 
 ### **News Favorites**
-<img src="images/News-Favorites.png" width="50%">
+<img src="images/News-Favorites.png" width="60%">
 
 ### **Model Management and Indicator Documentation**
-<img src="images/Model-Management-Indicator-Documentation.png" width="50%">
+<img src="images/Model-Management-Indicator-Documentation.png" width="60%">
 
 ### **Message Notifications**
-<img src="images/Message-notifications.png" width="50%">
+<img src="images/Message-notifications.png" width="60%">
 
 ### **Health Indicator Visualization**
-<img src="images/Health-Indicator-Visualization.png" width="50%">
+<img src="images/Health-Indicator-Visualization.png" width="60%">
 
 ## **Admin Panel**
 
 ### **Home Page Visualization**
-<img src="images/Home-Page-Visualization.png" width="50%">
+<img src="images/Home-Page-Visualization.png" width="60%">
 
 ### **User Management**
-<img src="images/User-Management.png" width="50%">
+<img src="images/User-Management.png" width="60%">
 
 ### **News Classification**
-<img src="images/News-Classification.png" width="50%">
+<img src="images/News-Classification.png" width="60%">
 
 ### **News Management**
-<img src="images/News-Management.png" width="50%">
+<img src="images/News-Management.png" width="60%">
 
 ### **Health Model Management**
-<img src="images/Health-Model-Management.png" width="50%">
+<img src="images/Health-Model-Management.png" width="60%">
 
 
 
